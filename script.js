@@ -108,3 +108,4 @@ const peter = new Person('peter');
 Promise.resolve('TEST').then(x => console.log(x));
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+console.log('Good');
